@@ -12,26 +12,26 @@ public class PrintInfo {
 
 	public static void main(String[] args) {
 		
-		String state = "Wisconsin"; //name of state
-		String country = "United States"; //name of country
-		int population = 5813568; //population of state
-		int currentPopulationYear = 2018; // most recent year population number was taken
-		double populationIncrease = 2.23; //percent of population increase since 2010
-		int oldPopulationYear = 2010; //last year population number was taken
+		String state = "Wisconsin"; 
+		String country = "United States";
+		int population = 5813568; 
+		int currentPopulationYear = 2018; 
+		double populationIncrease = 2.23; 
+		int oldPopulationYear = 2010; 
 		
-		String stateCapital = "Madison"; //the capital of Wisconsin
-		String largestCity = "Milwaukee"; //largest city in Wisconsin
-		int numberOfCounties = 72; //number of counties in Wisconsin
+		String stateCapital = "Madison"; 
+		String largestCity = "Milwaukee"; 
+		int numberOfCounties = 72; 
 		
-		int yearOfHighestTemp = 1936; //year with the highest recorded temperature in WI
-		int highestRecordedTemp = 114; //highest recorded temperature in WI
-		String cityOfLowestTemp = "Couderay"; //city in WI that had lowest temperature
-		String lowestRecordedTemp = "-55"; //lowest recorded temperature in WI
-		int yearOfLowestTemp = 1996; //year with the lowest recorded temperature in WI
+		int yearOfHighestTemp = 1936; 
+		int highestRecordedTemp = 114; 
+		String cityOfLowestTemp = "Couderay"; 
+		String lowestRecordedTemp = "-55"; 
+		int yearOfLowestTemp = 1996; 
 		
-		int lowestRangeIncomeTax = 4; //lowest range on personal income tax in WI
-		double highestRangeIncomeTax = 7.65; //highest range on personal income tax in WI
-		double salesTax = 5.0; //state sales tax in WI
+		int lowestRangeIncomeTax = 4; 
+		double highestRangeIncomeTax = 7.65; 
+		double salesTax = 5.0; 
 		
 		
 		System.out.println(state + " is a U.S. state located in the north-central " + country + 
